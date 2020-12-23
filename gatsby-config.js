@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mouad Bouzidi Full stack developer based in rabat',
-    description: 'Add description',
+    title: 'Mouad Bouzidi Full stack developer based 23years old',
+    description: 'Mouad Bouzidi Full stack web developer From Morocco ,I enjoy building solutions to problems',
     author: 'Mouad Bouzidi',
   },
   plugins: [
