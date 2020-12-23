@@ -26,7 +26,7 @@ const Layout = ({ children }: Props) => (
       >
         Note about site
         {' '}
-        <a href="https://twitter.com/example">Twitter</a>
+        <a href="https://www.instagram.com/bouzidi_mouad/">Instagram</a>
       </footer>
     </div>
   </>
