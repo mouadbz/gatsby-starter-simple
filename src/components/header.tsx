@@ -63,16 +63,16 @@ const Header = () => (
               fontSize: '2em',
             }}
           >
-            <a href="https://twitter.com/example" aria-label="Twitter">
+            <a href="https://twitter.com/MouadBouzidi4" aria-label="Twitter">
               <FaTwitter style={{ margin: '10' }} />
             </a>
-            <a href="https://github.com/example" aria-label="Github">
+            <a href="https://github.com/mouadbz" aria-label="Github">
               <FaGithub style={{ margin: '10' }} />
             </a>
-            <a href="https://www.linkedin.com/in/example/" aria-label="Linkedin">
+            <a href="https://www.linkedin.com/in/mouad-bouzidi-411a1a1a5/" aria-label="Linkedin">
               <FaLinkedin style={{ margin: '10' }} />
             </a>
-            <a href="mailto:hi@example.com" aria-label="Mail">
+            <a href="mailto:hello@mouad.dev" aria-label="Mail">
               <FaRegEnvelope style={{ margin: '10' }} />
             </a>
           </div>
