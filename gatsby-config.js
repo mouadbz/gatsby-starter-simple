@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Add Title',
+    title: 'Mouad Bouzidi Full stack developer based in rabat',
     description: 'Add description',
-    author: 'Add author',
+    author: 'Mouad Bouzidi',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Site Name',
-        short_name: 'name',
+        name: 'mouad bouzidi portfolio',
+        short_name: 'mouadbz',
         start_url: '/',
         background_color: '#202124',
         theme_color: '#202124',
