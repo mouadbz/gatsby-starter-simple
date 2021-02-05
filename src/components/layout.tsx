@@ -24,7 +24,7 @@ const Layout = ({ children }: Props) => (
           fontSize: '0.8rem',
         }}
       >
-        Note about site
+         DM me in instagram
         {' '}
         <a href="https://www.instagram.com/bouzidi_mouad/">Instagram</a>
       </footer>
